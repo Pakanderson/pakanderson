@@ -39,7 +39,7 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 **Domain:** Data Analytics & Consumer Behavior  
 > Evaluated the commercial impact of corporate discount strategies using statistical modeling and behavioral analytics.
 
-* **Statistical Modeling & Inference:** Utilized Pandas for advanced descriptive analytics and applied statistical distributions to model discount efficiency.
+* **Statistical Modeling & Inference:** Utilized Pandas for intermediate descriptive analytics and applied statistical distributions to model discount efficiency.
 * **Data Storytelling:** Built publication-ready data visualizations using Matplotlib and Seaborn to uncover hidden purchasing trends and present actionable insights.
 * [View Project Repository ➡️](https://github.com/Pakanderson/Discount-Impact-Analysis)
 
