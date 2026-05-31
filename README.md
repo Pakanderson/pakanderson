@@ -39,7 +39,6 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 **Domain:** Data Analytics & Consumer Behavior  
 > Evaluated the commercial impact of corporate discount strategies using statistical modeling and behavioral analytics.
 
-* **Data Engineering:** Engineered robust data extraction pipelines and performed advanced data cleaning, anomaly detection, and type casting on the primary database.
 * **Statistical Modeling & Inference:** Utilized Pandas for advanced descriptive analytics and applied statistical distributions to model discount efficiency.
 * **Data Storytelling:** Built publication-ready data visualizations using Matplotlib and Seaborn to uncover hidden purchasing trends and present actionable insights.
 * [View Project Repository ➡️](https://github.com/Pakanderson/Discount-Impact-Analysis)
@@ -61,7 +60,6 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 **Domain:** Database Architecture & Governance  
 > Created a comprehensive relational database playbook designed for structured learning and data management in startup environments.
 
-* **Database Design:** Formulated clear entity-relationship schemas to organize raw business transaction metrics efficiently.
-* **Query Optimization:** Wrote structured SQL scripts utilizing advanced aggregations, complex conditional filters (`WHERE`, `AND`, `OR`), and logical ordering.
+* **Query Optimization:** Wrote structured SQL scripts utilizing intermediate aggregations and conditional filters (`WHERE`, `AND`, `OR`), and logical ordering.
 * **Best Practices:** Implemented modern, clean SQL syntax guidelines to maximize script readability and database performance.
 * [View Project Repository ➡️](https://github.com/Pakanderson/sql-foundations-startup)
