@@ -25,6 +25,12 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
 | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) | |
 
+### 📈 My GitHub Stats
+
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakanderson&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pakanderson&layout=compact&theme=tokyonight)
+
 ---
 
 ## 👨‍💻 Featured Projects
