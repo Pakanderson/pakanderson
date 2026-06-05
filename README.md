@@ -37,6 +37,17 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 
 ## 👨‍💻 Featured Projects
 
+### ☁️ Serverless GCP Cloud ETL Pipeline
+**Domain:** Data Engineering & Automated Cloud Architecture  
+> Developed a production-grade, end-to-end serverless ETL pipeline to automate real-time data ingestion, transformation, and storage.
+
+* **Cloud Infrastructure:** Architected a fully serverless workflow utilizing GCP Cloud Functions and Cloud Scheduler for robust, automated execution.
+* **Database & Transformation:** Managed relational database schemas in Cloud SQL (MySQL), programmatically handling data cleaning, structure mapping, and storage optimization.
+* **Analytical Ingestion:** Engineered custom Python processing scripts to orchestrate seamless pipeline transfers from external data streams to a centralized warehouse.
+* [View Project Repository ➡️](https://github.com/Pakanderson/gcp-cloud-functions-mysql-etl)
+
+  ---
+
 ### 📊 Discount Strategy Impact Analysis
 **Domain:** Data Analytics & Consumer Behavior  
 > Evaluated the commercial impact of corporate discount strategies using statistical modeling and behavioral analytics.
