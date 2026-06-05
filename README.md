@@ -24,6 +24,8 @@ I’m a **Social data Scientist** passionate about research, data-driven insight
 | ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
 | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) | |
+| ![Dashboards](&lt;https://img.shields.io/badge/-Interactive_Dashboards-blueviolet?style=flat&amp;logo=tableau&amp;logoColor=white>) | |
+
 
 ### 📈 My GitHub Stats
 
