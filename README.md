@@ -19,6 +19,13 @@ Beyond technical development, I am deeply committed to community growth and ment
 
 ⚡ **Fun fact:** I enjoy turning complex social issues into data stories that drive change!
 ---
+### 🛠️ Technical Toolkit
+
+* **Languages & Core:** Python (pandas, NumPy, scikit-learn), SQL (MySQL, PostgreSQL)
+* **Cloud & DevOps:** Google Cloud Platform (GCP Cloud Functions, Cloud Scheduler, Cloud SQL), Git/GitHub
+* **Data Visualization & BI:** Tableau, Matplotlib, Seaborn
+* **Methodologies:** Exploratory Data Analysis (EDA), Statistical Hypothesis Testing (A/B Testing), ETL Pipeline Architecture, Predictive Modeling
+---
 
 ### 🛠️ Tech Stack
 
