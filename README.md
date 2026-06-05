@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm Paul! 
 
-I’m a **Social data Scientist** passionate about research, data-driven insights, and solving real-world problems. 
+I’m a **Social Data Scientist** passionate about research, data-driven insights, and solving real-world problems. 
+I am a former **Academic Advisor, Researcher, and Lecturer** currently executing a strategic career pivot into **Data Science & AI**. 
+With a strong foundation in social sciences, governance consulting, and project coordination, I excel at bridging the gap between complex quantitative datasets and actionable business strategies. 
+I am currently honing my technical toolkit through an intensive Data Science & Machine Learning program at WBS Coding School, focusing on building automated cloud pipelines and deploying predictive models.
+Beyond technical development, I am deeply committed to community growth and mentorship, serving in the extended leadership of the **Ghana Council NRW** and co-founding its **Professionals Club** to support and mentor Ghanaians navigating professional landscapes in Germany.
 
 ### 🚀 My Focus
 - 🔭 **Research:** Specializing in research methods and development cooperation.
