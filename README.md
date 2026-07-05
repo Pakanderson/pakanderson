@@ -50,6 +50,16 @@ Transitioning from a background as a Political Science Academic Advisor, Researc
 
 ## 👨‍💻 Featured Projects
 
+### 🤖 RAG-Powered Literary Analytics Engine (Animal Farm Novel)
+**Domain:** Generative AI, Retrieval-Augmented Generation (RAG) & Web App Deployment  
+> Developed a dual-framework AI assistant capable of performing real-time textual retrieval, context-aware analysis, and vector search operations on literary texts.
+
+* **Dual-Framework Deployment:** Built and hosted independent application environments using both Gradio (`the-animal-farm-novel-gradio`) and Streamlit architectures to contrast deployment performance and user experience metrics.
+* **Vector Indexing & Retrieval:** Integrated LlamaIndex alongside advanced Large Language Models (LLMs) to construct standalone semantic vector indexes for precise contextual data retrieval.
+* [View Project Repository ➡️](https://github.com/Pakanderson/the-animal-farm-novel-gradio)
+
+  ---
+
 ### ☁️ Serverless GCP Cloud ETL Pipeline
 **Domain:** Data Engineering & Automated Cloud Architecture  
 > Developed a production-grade, end-to-end serverless ETL pipeline to automate real-time data ingestion, transformation, and storage.
