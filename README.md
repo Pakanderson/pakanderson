@@ -50,12 +50,12 @@ Transitioning from a background as a Political Science Academic Advisor, Researc
 
 ## 👨‍💻 Featured Projects
 
-### 🤖 RAG-Powered Literary Analytics Engine (Animal Farm Novel)
-**Domain:** Generative AI, Retrieval-Augmented Generation (RAG) & Web App Deployment  
-> Developed a dual-framework AI assistant capable of performing real-time textual retrieval, context-aware analysis, and vector search operations on literary texts.
+### 🤖 Political Satire Interactive Analyzer
+**Domain:** Generative AI & Retrieval-Augmented Generation (RAG)  
+> An AI-powered RAG system designed to parse, retrieve, and analyze the deep allegorical layers of George Orwell's classic novel, Animal Farm.
 
-* **Dual-Framework Deployment:** Built and hosted independent application environments using both Gradio (`the-animal-farm-novel-gradio`) and Streamlit architectures to contrast deployment performance and user experience metrics.
-* **Vector Indexing & Retrieval:** Integrated LlamaIndex alongside advanced Large Language Models (LLMs) to construct standalone semantic vector indexes for precise contextual data retrieval.
+* **Retrieval-Augmented Generation (RAG):** Integrated LlamaIndex with high-performance Large Language Models (LLMs) to construct standalone vector database indexes, enabling precise context-aware document processing of complex literary texts.
+* **Interactive UI Deployment:** Engineered and deployed a clean, responsive user interface utilizing the Gradio framework, hosted live on Hugging Face Spaces for real-time model interaction and semantic query testing.
 * [View Project Repository ➡️](https://github.com/Pakanderson/the-animal-farm-novel-gradio)
 
   ---
