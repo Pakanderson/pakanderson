@@ -50,7 +50,7 @@ Transitioning from a background as a Political Science Academic Advisor, Researc
 
 ## 👨‍💻 Featured Projects
 
-### 🤖 Political Satire Interactive Analyzer
+### 🤖 the-animal-farm-novel-gradio
 **Domain:** Generative AI & Retrieval-Augmented Generation (RAG)  
 > An AI-powered RAG system designed to parse, retrieve, and analyze the deep allegorical layers of George Orwell's classic novel, Animal Farm.
 
