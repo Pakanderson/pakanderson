@@ -23,11 +23,11 @@ Transitioning from a background as a Political Science Academic Advisor, Researc
 ---
 ### 🛠️ Technical Toolkit
 
-* **Languages & Core:** Python (pandas, NumPy, scikit-learn), SQL (MySQL, PostgreSQL)
+* **Languages & Core:** Python (pandas, NumPy, scikit-learn), SQL (MySQL)
 * **Machine Learning & AI:** Supervised/Unsupervised Learning, Regression, Ensemble Modeling, Retrieval-Augmented Generation (RAG)
 * **Frontend UI & Rapid Prototyping:** Streamlit, Gradio
 * **Deployment & Cloud Infrastructure:** Hugging Face Spaces, Google Cloud Platform (GCP Cloud Functions, Cloud Scheduler, Cloud SQL), Git/GitHub
-* **Data Visualization & BI:** Tableau, Matplotlib, Seaborn
+* **Data Visualization:** Tableau, Matplotlib, Seaborn
 * **Methodologies:** Exploratory Data Analysis (EDA), Statistical Hypothesis Testing (A/B Testing), ETL Pipeline Architecture, Predictive Modeling
 ---
 
